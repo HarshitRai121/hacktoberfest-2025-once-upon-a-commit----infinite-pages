@@ -1,9 +1,8 @@
 ---
-
 title: The Lantern in the Mist
 author: shiwans-k-yadav
 parent: chapter03_mountain_of_shards.md
----------------------------------------
+---
 
 ✍️ **Your Story**
 The Wanderer walked where the path forgot its name. Mist pooled like soft grief between the trunks; the lantern at their hip breathed a thin, steady light. Each step swallowed sound, and the world narrowed to the lantern's small orbit — moss, a low bird-call, the scuff of worn leather. The light did not chase the fog away; it simply made one small place honest and known.
